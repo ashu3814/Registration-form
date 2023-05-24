@@ -59,7 +59,4 @@ Make sure you have the following installed before running the application:
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
 ```
